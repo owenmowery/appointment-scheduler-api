@@ -1,6 +1,6 @@
 # ScheduleNow
 
-This is a full stack application that any business who takes appointments from clients can benefit from. This is a baseline shell that with some small adjustments, can work for most businesses (doctor offices, flower shops, tattoo shops).
+This is a RESTful Ruby on Rails API that any business who takes appointments from clients can benefit from. This is a baseline shell that with some small adjustments, can work for most businesses (doctor offices, flower shops, tattoo shops).
 
 
 
